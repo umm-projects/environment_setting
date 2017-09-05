@@ -11,7 +11,7 @@
 # Install
 
 ```shell
-$ npm install @umm/environment_setting
+$ npm install github:umm-projects/environment_setting.git
 ```
 
 # Usage
